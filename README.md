@@ -1,0 +1,1 @@
+This is the project with tasks from the course of Selenium
